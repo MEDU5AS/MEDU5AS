@@ -2,7 +2,7 @@
 
 <!-- Actual text -->
 
-You can find me on  ![Twitter][1.2]
+You can find me on    ![Twitter][1.2]
 
 <!-- Icons -->
 
